@@ -33,7 +33,17 @@ body>div
 }
 table
 {
+    font-size: 1vw;
     margin-left: 20px;
     border: 1px black solid;
     border-collapse: collapse;
+    width: 10vw;
+}
+div>table
+{
+    margin-top: 10px;
+}
+td
+{
+    width: 3vw
 }
